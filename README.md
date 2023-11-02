@@ -14,7 +14,7 @@ Open the file calc.py, and run it. The output you should be getting is something
 Enter number 1: 
 5
 Enter number 2: 
-7
+7d
 Sum: 12
 Product: 35
 ```
